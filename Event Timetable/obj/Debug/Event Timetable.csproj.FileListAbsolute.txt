@@ -1,0 +1,13 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Event Timetable\bin\Debug\Event Timetable.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Event Timetable\bin\Debug\Event Timetable.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Event Timetable\bin\Debug\Event Timetable.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Event Timetable\obj\Debug\Event Timetable.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Event Timetable\obj\Debug\Event Timetable.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Event Timetable\obj\Debug\Event Timetable.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Event Timetable\bin\Debug\Event Timetable.exe.config
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Event Timetable\bin\Debug\Event Timetable.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Event Timetable\bin\Debug\Event Timetable.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Event Timetable\bin\Debug\Event Timetable.exe.CodeAnalysisLog.xml
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Event Timetable\bin\Debug\Event Timetable.exe.lastcodeanalysissucceeded
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Event Timetable\obj\Debug\Event Timetable.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Event Timetable\obj\Debug\Event Timetable.pdb

@@ -1,0 +1,10 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search in a PhoneBook\bin\Debug\Search in a PhoneBook.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search in a PhoneBook\obj\Debug\Search in a PhoneBook.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search in a PhoneBook\obj\Debug\Search in a PhoneBook.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search in a PhoneBook\bin\Debug\Search in a PhoneBook.exe.config
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search in a PhoneBook\bin\Debug\Search in a PhoneBook.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search in a PhoneBook\bin\Debug\Search in a PhoneBook.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search in a PhoneBook\bin\Debug\Search in a PhoneBook.exe.CodeAnalysisLog.xml
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search in a PhoneBook\bin\Debug\Search in a PhoneBook.exe.lastcodeanalysissucceeded
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search in a PhoneBook\obj\Debug\Search in a PhoneBook.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search in a PhoneBook\obj\Debug\Search in a PhoneBook.pdb

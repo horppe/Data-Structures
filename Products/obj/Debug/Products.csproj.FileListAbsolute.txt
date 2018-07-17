@@ -1,0 +1,13 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Products\bin\Debug\Products.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Products\bin\Debug\Products.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Products\bin\Debug\Products.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Products\obj\Debug\Products.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Products\obj\Debug\Products.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Products\obj\Debug\Products.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Products\bin\Debug\Products.exe.config
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Products\bin\Debug\Products.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Products\bin\Debug\Products.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Products\bin\Debug\Products.exe.CodeAnalysisLog.xml
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Products\bin\Debug\Products.exe.lastcodeanalysissucceeded
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Products\obj\Debug\Products.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Products\obj\Debug\Products.pdb

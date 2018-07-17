@@ -1,0 +1,13 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search Engine\bin\Debug\Search Engine.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search Engine\bin\Debug\Search Engine.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search Engine\bin\Debug\Search Engine.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search Engine\obj\Debug\Search Engine.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search Engine\obj\Debug\Search Engine.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search Engine\obj\Debug\Search Engine.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search Engine\bin\Debug\Search Engine.exe.config
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search Engine\bin\Debug\Search Engine.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search Engine\bin\Debug\Search Engine.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search Engine\bin\Debug\Search Engine.exe.CodeAnalysisLog.xml
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search Engine\bin\Debug\Search Engine.exe.lastcodeanalysissucceeded
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search Engine\obj\Debug\Search Engine.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Search Engine\obj\Debug\Search Engine.pdb

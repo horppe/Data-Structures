@@ -1,0 +1,13 @@
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\bin\Debug\Data structures.exe.config
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\bin\Debug\Data structures.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\bin\Debug\Data structures.pdb
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\obj\Debug\Data structures.csprojResolveAssemblyReference.cache
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\obj\Debug\Data structures.exe
+c:\users\sammx\documents\visual studio 2015\Projects\Data structures\Data structures\obj\Debug\Data structures.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Data structures\bin\Debug\Data structures.exe.config
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Data structures\obj\Debug\Data structures.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Data structures\obj\Debug\Data structures.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Data structures\bin\Debug\Data structures.exe
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Data structures\bin\Debug\Data structures.pdb
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Data structures\bin\Debug\Data structures.exe.CodeAnalysisLog.xml
+C:\Users\sammx\Documents\Visual Studio 2015\Projects\Data Structures Exercises\Data structures\bin\Debug\Data structures.exe.lastcodeanalysissucceeded

@@ -1,0 +1,6 @@
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search in a PhoneBook\bin\Debug\Search in a PhoneBook.exe.config
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search in a PhoneBook\bin\Debug\Search in a PhoneBook.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search in a PhoneBook\bin\Debug\Search in a PhoneBook.pdb
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search in a PhoneBook\obj\Debug\Search in a PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search in a PhoneBook\obj\Debug\Search in a PhoneBook.exe
+C:\Users\sammx\documents\visual studio 2015\Projects\Data structures\Search in a PhoneBook\obj\Debug\Search in a PhoneBook.pdb
